@@ -44,7 +44,7 @@ interface User{
 .ranking th {
   padding: 12px;
   text-align: left;
-  background-color: #04AA6D;
+  background-color: #0835d7;
   color: white;
 }
 .ranking td {
